@@ -1,1 +1,1 @@
-# Amazon
+A static Amazon clone created with HTML and CSS. This project replicates the key design elements of the popular e-commerce platform, featuring a user-friendly layout and visually appealing product displays.
