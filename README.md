@@ -7,16 +7,19 @@ The layout adjusts seamlessly across various screen sizes, ensuring a smooth use
 
 
 1. Navigation Bar:
+
    A functional navigation bar that mimics the original, allowing users to explore different product categories.
 
 
-2. Product Display:
+3. Product Display:
+
    Grid-style product listings showcasing images, titles, prices, and ratings, designed to simulate the Amazon shopping experience.
 
 
-3. Search Bar:
+5. Search Bar:
+   
    A simple search functionality to demonstrate the structure and design of a typical e-commerce search feature.
 
 
-4. Styling:
+7. Styling:
    Modern and clean CSS styles that enhance the visual appeal, inspired by Amazon’s branding and aesthetic.
