@@ -21,22 +21,7 @@ Check out the live demo here:
 - **HTML5**: For structuring the content.  
 - **CSS3**: For styling, animations, and responsive design.  
 
-## Setup and Usage  
 
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/amazon-clone.git  
-   ```  
-
-2. Navigate to the project folder:  
-   ```bash  
-   cd amazon-clone  
-   ```  
-
-3. Open the `index.html` file in your browser to view the project:  
-   ```bash  
-   open index.html  
-   ```  
 
 ## Folder Structure  
 
@@ -44,14 +29,5 @@ Check out the live demo here:
 - **styles.css**: The stylesheet for the project.  
 - **images/**: Contains all product and design-related images used in the project.  
 
-## Contributing  
 
-If you’d like to contribute, fork the repository and submit a pull request with your enhancements or bug fixes.  
 
-## License  
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
-
----
-
-Replace `https://your-live-demo-link.com` with the actual URL where your project is hosted (e.g., GitHub Pages or any hosting platform like Netlify or Vercel). Let me know if you need help setting up the live demo!
