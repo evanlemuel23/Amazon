@@ -6,7 +6,7 @@ This is a static Amazon Clone built using only HTML and CSS. The project focuses
 
 ## Live Demo  
 
-Check out the live demo here:  
+Check out the live demo here:https://evanlemuel23.github.io/Amazon/
 
 ## Features  
 
