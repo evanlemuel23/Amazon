@@ -16,4 +16,6 @@ Search Bar:
 
 A simple search functionality to demonstrate the structure and design of a typical e-commerce search feature.
 
-Styling: Modern and clean CSS styles that enhance the visual appeal, inspired by Amazon
+Styling: Modern and clean CSS styles that enhance the visual appeal, inspired by Amazon.
+
+LIVE DEMO:
